@@ -1,0 +1,97 @@
+[
+  {
+    "id": "1",
+    "question": "The World Largest desert is ?",
+    "answer": "Sahara",
+    "options": ["Thar", "Kalahari", "Sahara", "Sonoran"]
+  },
+  {
+    "id": "1",
+    "question": "Mount Everest is located in ?",
+    "answer": "Nepal",
+    "options": ["India", "Nepal", "Tibet", "China"]
+  },
+  {
+    "id": "1",
+    "question": "The Gate way of India is ?",
+    "answer": "Mumbai",
+    "options": ["Chennai", "Mumbai", "Kolkata", "New Delhi"]
+  },
+  {
+    "id": "1",
+    "question": "Pink city in India is ?",
+    "answer": "Jaipur",
+    "options": ["Mysore", "Karnataka", "Hyderabad", "Jaipur"]
+  },
+  {
+    "id": "1",
+    "question": "Punjab is famous for ?",
+    "answer": "Woolen textile",
+    "options": [
+      "Nylon textile",
+      "Silk textile",
+      "Woolen textile",
+      "Cotton textile"
+    ]
+  },
+  {
+    "id": "2",
+    "question": "Which soil is suitable for agriculture ?",
+    "answer": "Peaty soil",
+    "options": ["Red soil", "Sand", "Black soil", "Peaty soil"]
+  },
+  {
+    "id": "2",
+    "question": "Black soils are best suited for the cultivation of ?",
+    "answer": "Cotton",
+    "options": ["Cotton", "Rice", "Cereals", "Sugarcane"]
+  },
+  {
+    "id": "2",
+    "question": "The device used for measuring altitudes is ?",
+    "answer": "altimeter",
+    "options": ["altimeter", "ammeter", "audiometer", "galvanometer"]
+  },
+  {
+    "id": "2",
+    "question": "Deficiency of Iron leads to ?",
+    "answer": "Anaemia",
+    "options": ["Rickets", "Malaria", "Dental CavityD", "Anaemia"]
+  },
+  {
+    "id": "2",
+    "question": "The largest river in India is ?",
+    "answer": "Ganga",
+    "options": ["Yamuna", "Kaveri", "Ganga", "Bramaputra"]
+  },
+  {
+    "id": "3",
+    "question": "Country that has the highest in Barley Production ?",
+    "answer": "Russia",
+    "options": ["China", "India", "Russia", "France"]
+  },
+  {
+    "id": "3",
+    "question": "The metal whose salts are sensitive to light is ?",
+    "answer": "Silver",
+    "options": ["Zinc", "Silver", "Copper", "Aluminium"]
+  },
+  {
+    "id": "3",
+    "question": "The Central Rice Research Station is situated in ?",
+    "answer": "Cuttack",
+    "options": ["Chennai", "Cuttack", "Bangalore", "Quilon"]
+  },
+  {
+    "id": "3",
+    "question": "13. Which is consider as the biggest port of India ?",
+    "answer": "Mumbai",
+    "options": ["Kolkata", "Cochin", "Chennai", "Mumbai"]
+  },
+  {
+    "id": "3",
+    "question": "23. The largest fresh water lake in India is ?",
+    "answer": "Kolleru Lake",
+    "options": ["Pulicat Lake", "Veeranam Lake", "Chilka Lake", "Kolleru Lake"]
+  }
+]

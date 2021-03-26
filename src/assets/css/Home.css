@@ -1,0 +1,33 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  background-color: #dbc7cc;
+  padding: 50px;
+  border-radius: 20px 50px;
+}
+
+#home h1 {
+  margin-bottom: 1em;
+}
+
+.homeChoose {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0;
+}
+
+.homeChoose > button {
+  border: 2px dotted grey;
+  border-radius: 50px;
+  padding: 20px;
+  margin: 10px;
+}
+
+.homeButton {
+  padding: 20px;
+  font-size: 1.5em;
+  /* margin: 0 300px; */
+}
