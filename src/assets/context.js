@@ -1,16 +1,13 @@
-import React, { Component, createContext } from "react";
+import React, { useState, createContext } from "react";
+import Data from "../assets/data.json";
 
-export const Context = createContext();
+export const QuestionContext = createContext();
 
-export default class Rontext extends Component {
-  state = {
-    filteredQus: "",
-  };
-  render() {
-    return (
-      <Context.Provider value={{ ...this.state }}>
-        {this.props.children}
-      </Context.Provider>
-    );
-  }
-}
+export const QuestionProvider = (props) => {
+  const [questions, setQuestions] = useState([Data]);
+  const [filteredQues, setFilteredQues] = useState();
+
+  <QuestionContext.Provider value={questions}>
+    {props.children}
+  </QuestionContext.Provider>;
+};

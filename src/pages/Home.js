@@ -1,9 +1,12 @@
 import React, { useState, useContext } from "react";
 import { Link } from "react-router-dom";
+import { QuestionContext } from "../assets/context";
 import Data from "../assets/data.json";
 
 export default function Home() {
   const [filterQus, setFilterQus] = useState();
+  const value = useContext(QuestionContext);
+  console.log(value);
 
   const handleClick = (e) => {
     setFilterQus(Data.filter((item) => item.id === e.target.value));
